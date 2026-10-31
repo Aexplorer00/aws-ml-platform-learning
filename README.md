@@ -2,6 +2,8 @@
 
 **Primary goal:** strengthen DevOps / SRE / Cloud Platform Engineering while learning how to deploy, secure, observe, and operate AI/ML workloads. A full MLOps transition is optional.
 
+**Daily checklist:** [36-day, 2-hour session schedule](docs/DAILY_SCHEDULE.md) — specific tasks, commits and checkpoints. Start on any available day.
+
 **Start here:** [DevOps + AI Infrastructure track](docs/DEVOPS_AI_PLATFORM_TRACK.md) — 12 modules, each with three flexible 2-hour sessions (72 hours of hands-on study). Learn when available; no fixed deadlines.
 
 **Preserved material:** the existing runnable ML baseline, CI, tests, infrastructure skeleton, learning-log template, and [original 52-week deep MLOps roadmap](docs/ROADMAP.md) are unchanged. The original roadmap is now an optional specialization, not the default plan.
